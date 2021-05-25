@@ -11,22 +11,23 @@ body {
   background-image: url(./images/bg.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
 }
 .wrapper {
   display: block;
   margin: 0 auto;
   background-image: url(./images/day.svg);
   background-size: cover;
-  width: 400px;
-  height: 700px;
+  width: 500px;
+  height: 800px;
 }
 .night {
   display: block;
   margin: 0 auto;
   background-image: url(./images/night.svg);
   background-size: cover;
-  width: 400px;
-  height: 700px;
+  width: 500px;
+  height: 800px;
 }
 .inputLocation {
   display: flex;
@@ -64,7 +65,7 @@ input {
   flex-flow: row wrap;
   justify-content: space-around;
   padding: 5em;
-  margin-top: 20em;
+  margin-top: 25em;
 }
 .temp {
   flex: 1 0 0;
