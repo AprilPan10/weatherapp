@@ -1,6 +1,8 @@
 ## React - Weather App
 
-- [x] Users can put a city name and click a search button. Users can view a city date(different time zone), city name, country name, temperature, weather icon, and weather description.
-- [x] Between 6:00 am to 18:00 pm it will change the background to date time background, after 18:00 to 5:59 am will night time background. (depend time zones will be different)
-- [x] Here is the live side
+#### This project uses React and Open Weather API to allow users to search a city's weather, display a city's time as well as whether it is day or night time.
+
+- [x] Users can type in a city's name and click the search button. Users can view a city's date(different time zone), name, country name, temperature, weather icon, and weather description.
+- [x] Between 6:00 and 18:00 the app will change the background to the daytime background, from 18:01 to 5:59 the app will change to the nighttime background (depending on time zones).
+- [x] Here is the live side: https://shimengpan.website/React/index.html
       <img src="public/v8.jpg" alt="mockup">
